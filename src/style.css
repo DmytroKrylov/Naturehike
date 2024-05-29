@@ -287,7 +287,6 @@ ul li:hover .content {
 }
 
 .img__second__right {
-  width: 50%;
   height: 540px;
 }
 
@@ -354,11 +353,168 @@ ul li:hover .content {
 
 .fun__first {
   position: absolute;
-  bottom: 115px;
+  bottom: 75px;
   right: 330px;
 }
 
 .content__nine {
   bottom: -55px;
   right: 75px;
+}
+
+.category {
+  font-size: 35px;
+  line-height: 37.63px;
+  letter-spacing: 3.5px;
+  color: #211d1d;
+  text-align: center;
+  border: 9px solid #e60012;
+  border-radius: 13px;
+  padding-block: 30px;
+  margin-bottom: 90px;
+  text-transform: uppercase;
+}
+
+.fourth__screen {
+  margin-bottom: 140px;
+}
+
+.cover__second {
+  position: absolute;
+  bottom: 140px;
+  left: 320px;
+}
+
+.content__ten {
+  bottom: 120px;
+  left: 0px;
+}
+
+.container__icon {
+  position: absolute;
+  bottom: 45px;
+  left: 350px;
+}
+
+.content__1 {
+  bottom: 140px;
+  right: 400px;
+}
+
+.plus {
+  position: absolute;
+  bottom: 70px;
+  right: 200px;
+}
+
+.content__2 {
+  bottom: -50px;
+  right: 330px;
+}
+
+.plus__3 {
+  position: absolute;
+  bottom: 200px;
+  right: 250px;
+}
+
+.content__3 {
+  bottom: 190px;
+  right: 170px;
+}
+
+.plus__4 {
+  position: absolute;
+  bottom: 50px;
+  right: 150px;
+}
+
+.content__4 {
+  bottom: -50px;
+  right: 260px;
+}
+
+.plus__5 {
+  position: absolute;
+  bottom: 50px;
+  left: 40px;
+}
+
+.content__5 {
+  bottom: -50px;
+  right: 260px;
+}
+
+.plus__6 {
+  position: absolute;
+  bottom: 100px;
+  left: 130px;
+}
+
+.content__6 {
+  bottom: 100px;
+  right: 350px;
+}
+
+.plus__7 {
+  position: absolute;
+  bottom: 150px;
+  right: 200px;
+}
+
+.content__7 {
+  bottom: 135px;
+  right: 100px;
+}
+
+.fixed {
+  width: 50%;
+}
+
+.img__fixed {
+  height: 548px;
+}
+
+.plus__8 {
+  position: absolute;
+  bottom: 135px;
+  right: 245px;
+}
+
+.content__8 {
+  bottom: 120px;
+  right: 150px;
+}
+
+.plus__9 {
+  position: absolute;
+  bottom: 135px;
+  right: 300px;
+}
+
+.content__9 {
+  bottom: -40px;
+  right: 200px;
+}
+
+.plus__10 {
+  position: absolute;
+  bottom: 20px;
+  right: 200px;
+}
+
+.content__10 {
+  bottom: -55px;
+  left: 0px;
+}
+
+.plus__11 {
+  position: absolute;
+  bottom: 70px;
+  right: 110px;
+}
+
+.content__11 {
+  bottom: 60px;
+  right: 80px;
 }
