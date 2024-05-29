@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: 'Intro Demo';
-  src: url('./fonts/Intro/intro_regular.ttf');
+  src: url('./fonts/Intro/IntroDemo-BlackCAPS.otf');
   src: url('./fonts/Intro/IntroDemo-BlackCAPS.otf') format('otf'),
     url('./fonts/Intro/IntroDemoCond-BlackCAPS.otf') format('otf'),
     url('./fonts/Intro/IntroDemoCond-LightCAPS.otf') format('otf');
@@ -61,7 +61,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  margin-bottom: 150px;
+  margin-bottom: 140px;
 }
 
 .hero__title {
@@ -74,7 +74,7 @@ body {
 }
 
 .second__screen {
-  margin-bottom: 150px;
+  margin-bottom: 140px;
 }
 
 .second__screen__title {
@@ -148,11 +148,11 @@ body {
   letter-spacing: 4px;
   text-align: center;
   text-transform: uppercase;
-  margin-bottom: 150px;
+  margin-bottom: 140px;
 }
 
 .third__screen {
-  margin-bottom: 110px;
+  margin-bottom: 140px;
 }
 
 .third__screen__content {
@@ -379,7 +379,7 @@ ul li:hover .content {
   border: 9px solid #e60012;
   border-radius: 13px;
   padding-block: 30px;
-  margin-bottom: 90px;
+  margin-bottom: 140px;
   text-transform: uppercase;
 }
 
@@ -525,4 +525,225 @@ ul li:hover .content {
 .content__11 {
   bottom: 60px;
   right: 80px;
+}
+
+.plus__12 {
+  position: absolute;
+  bottom: 160px;
+  right: 615px;
+}
+
+.content__12 {
+  bottom: 150px;
+  right: 530px;
+}
+
+.plus__13 {
+  position: absolute;
+  bottom: 70px;
+  right: 44%;
+}
+
+.content__13 {
+  bottom: 50px;
+  right: 30%;
+}
+
+.plus__14 {
+  position: absolute;
+  bottom: 220px;
+  right: 55%;
+}
+
+.content__14 {
+  bottom: 30px;
+  right: 35%;
+}
+
+.plus__15 {
+  position: absolute;
+  bottom: 45px;
+  right: 30%;
+}
+
+.content__15 {
+  bottom: 30px;
+  right: 35%;
+}
+
+.plus__16 {
+  position: absolute;
+  bottom: 45px;
+  right: 50%;
+}
+
+.content__16 {
+  bottom: 30px;
+  right: 35%;
+}
+
+.five__screen {
+  margin-bottom: 140px;
+}
+
+.six__screen {
+  margin-bottom: 140px;
+}
+
+.plus__17 {
+  position: absolute;
+  bottom: 450px;
+  left: 30%;
+}
+
+.content__17 {
+  bottom: 350px;
+  left: 0;
+}
+
+.plus__18 {
+  position: absolute;
+  bottom: 100px;
+  left: 10%;
+}
+
+.content__18 {
+  bottom: 5px;
+  left: 10%;
+}
+
+.plus__19 {
+  position: absolute;
+  bottom: 300px;
+  left: 35%;
+}
+
+.content__19 {
+  bottom: 200px;
+  left: 35%;
+}
+
+.plus__20 {
+  position: absolute;
+  bottom: 165px;
+  right: 5%;
+}
+
+.content__20 {
+  bottom: 80px;
+  right: 15%;
+}
+
+.plus__21 {
+  position: absolute;
+  bottom: 165px;
+  right: 10%;
+}
+
+.content__21 {
+  bottom: 60px;
+  right: 30%;
+}
+
+.plus__22 {
+  position: absolute;
+  bottom: 80px;
+  right: 35%;
+}
+
+.content__22 {
+  bottom: 55px;
+  right: 35%;
+}
+
+.plus__23 {
+  position: absolute;
+  bottom: 65px;
+  left: 3%;
+}
+
+.content__23 {
+  bottom: 55px;
+  left: -5%;
+}
+
+.plus__24 {
+  position: absolute;
+  bottom: 130px;
+  right: 25%;
+}
+
+.content__24 {
+  bottom: -66px;
+  right: 12%;
+}
+
+.plus__25 {
+  position: absolute;
+  bottom: 145px;
+  right: 35%;
+}
+
+.content__25 {
+  bottom: 135px;
+  right: 20%;
+}
+
+.plus__26 {
+  position: absolute;
+  bottom: 130px;
+  left: 35%;
+}
+
+.content__26 {
+  bottom: -55px;
+  right: 55%;
+}
+
+.plus__27 {
+  position: absolute;
+  bottom: 144px;
+  left: 45%;
+}
+
+.content__27 {
+  bottom: 140px;
+  right: 55%;
+}
+
+.img__fx {
+  height: 545px;
+}
+
+.plus__28 {
+  position: absolute;
+  bottom: 144px;
+  left: 45%;
+}
+
+.content__28 {
+  bottom: 140px;
+  right: 35%;
+}
+
+.plus__29 {
+  position: absolute;
+  bottom: 110px;
+  left: 25%;
+}
+
+.content__29 {
+  bottom: 15px;
+  right: 25%;
+}
+
+.plus__30 {
+  position: absolute;
+  bottom: 165px;
+  left: 45%;
+}
+
+.content__30 {
+  bottom: -30px;
+  right: 40%;
 }

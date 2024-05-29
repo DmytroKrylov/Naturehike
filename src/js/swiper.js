@@ -1,4 +1,5 @@
 const swiper = new Swiper('.mySwiper', {
+  loop: true,
   effect: 'flip',
   grabCursor: true,
   pagination: {
