@@ -130,6 +130,14 @@ body {
   background-color: #e60012;
 }
 
+.swiper-button-next {
+  color: #e60012;
+}
+
+.swiper-button-prev {
+  color: #e60012;
+}
+
 .banner {
   padding-inline: 72px;
   padding-block: 30px;
