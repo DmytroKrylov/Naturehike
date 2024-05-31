@@ -289,6 +289,12 @@ body {
   gap: 15px;
 }
 
+@media (min-width: 360px) and (max-width: 1439px) {
+  .third__screen__first__flex {
+    gap: 5px;
+  }
+}
+
 .content__link {
   width: 13px;
   height: 11px;
@@ -303,9 +309,23 @@ body {
   margin-bottom: 5px;
 }
 
+@media (min-width: 360px) and (max-width: 1439px) {
+  .all__paragraph {
+    font-size: 8px;
+    line-height: 10.56px;
+  }
+}
+
 .all__price {
   font-size: 15px;
   line-height: 19.8px;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+  .all__price {
+    font-size: 8px;
+    line-height: 10.56px;
+  }
 }
 
 .img {
@@ -315,6 +335,12 @@ body {
 
 .third__screen__first__small__img {
   width: 100px;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+  .third__screen__first__small__img {
+    width: 75px;
+  }
 }
 
 .img__first {
@@ -332,10 +358,24 @@ body {
   height: 30px;
 }
 
+@media (min-width: 360px) and (max-width: 1439px) {
+  .button {
+    width: 15px;
+    height: 15px;
+  }
+}
+
 .fun {
   position: absolute;
   bottom: 215px;
   left: 455px;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+  .fun {
+    bottom: 150px;
+    left: 25%;
+  }
 }
 
 .cover {
@@ -344,10 +384,24 @@ body {
   left: 600px;
 }
 
+@media (min-width: 360px) and (max-width: 1439px) {
+  .cover {
+    bottom: 140px;
+    left: 42%;
+  }
+}
+
 .chair {
   position: absolute;
   right: 500px;
   bottom: 150px;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+  .chair {
+    bottom: 125px;
+    right: 35%;
+  }
 }
 
 .wrapper {
@@ -373,6 +427,13 @@ body {
   -ms-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   transition: all 0.5s ease;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+  .content {
+    width: 250px;
+    padding: 5px;
+  }
 }
 
 .content__first {
@@ -900,4 +961,11 @@ ul li:hover .content {
 
 .swiper-slide__mobile {
   box-shadow: none;
+}
+
+@media (min-width: 360px) and (max-width: 1439px) {
+  .mobile__modal {
+    bottom: 250px;
+    left: -4%;
+  }
 }
