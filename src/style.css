@@ -168,7 +168,8 @@ body {
 }
 
 .swiper__img {
-  height: 450px;
+  /* height: 450px; */
+  height: auto;
 }
 
 @media (min-width: 360px) and (max-width: 1439px) {
@@ -179,6 +180,9 @@ body {
 }
 
 .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border: 1px solid #dbdbdb;
   border-radius: 15px;
   box-shadow: 4px 4px 3.7px 0px rgba(0, 0, 0, 0.25);
